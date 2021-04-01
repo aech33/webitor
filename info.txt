@@ -1,0 +1,13 @@
+Website you want to monitor:
+https://yourwebsite.com/
+
+Your email address:
+youremail@gmail.com
+
+App Password:
+WWWWYYYYXXXXZZZZ
+
+Email Subject:
+Your Subject
+
+DO NOT CHANGE WHAT LINE EACH VARIABLE IS ON. THIS WILL BREAK THE PROGRAM.
